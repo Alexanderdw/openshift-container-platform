@@ -86,7 +86,7 @@
             "value": "true"
         },
         "aadClientId": {
-            "value": "ab1c7ec5-3e04-4e81-ab2f-d62506379493"
+            "value": "{aadClientId}"
         },
         "aadClientSecret": {
             "value": "{Strong Password}"
