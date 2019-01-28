@@ -71,7 +71,7 @@
             "value": "{Pool ID}"
         },
         "sshPublicKey": {
-            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCx7btR7py84ZsNn+9q6c9eDpBjJ8UZoEFaaDRt1ZCyhFfC5ITqP0LH3bIeMOYsOqD5GFZBG7k9vJGmkNvdvDNcut80ZVL3QwRVv4nB5q1zZbK111Xj7q9V7Ri0cJ7TcdWwfN7JkYEJ2fFGkXyjug8lqHzKSW68hZmEUWhykkq3H7Vf1mg2JakG9NUoZtVLswHxkqDwGxbc83EEg5hTvJ2UKmVIKBl3WcEIzVb95zhcyvvq/nxIcZE2Si9BtRfArDdSFHzH7ho69/S/aFnUa36z19TBVcIaaMoyRliOt6W/dsdVu1BmTNI2UbyjrUtTrzho1TcKj4bMO+Wqrxskosmn"
+            "value": "ssh-rsa <blabla>"
         },
         "keyVaultResourceGroup": {
             "value": "keyvaultrg"
