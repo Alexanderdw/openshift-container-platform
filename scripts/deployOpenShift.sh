@@ -89,7 +89,7 @@ fi
 if [ "$AADCLIENTID" != "" ]
 then
     echo $(date) " - Logging into Azure CLI"
-    az login -u $AADCLIENTID -p $AADCLIENTSECRET 
+    az login --service-principal -u $AADCLIENTID -p $AADCLIENTSECRET -t $TENANTID 
     az account set -s $SUBSCRIPTIONID
 
     # Adding Storage Extension
